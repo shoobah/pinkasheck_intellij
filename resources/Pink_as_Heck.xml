@@ -30,7 +30,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="ff81ea" />
-        <option name="EFFECT_COLOR" value="589df6" />
+        <option name="EFFECT_COLOR" value="ff5c8d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -71,6 +71,13 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="ff5c8d" />
+      </value>
+    </option>
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="cc4e5b" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -134,6 +141,13 @@
         <option name="BACKGROUND" value="461334" />
       </value>
     </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff5c8d" />
+        <option name="EFFECT_COLOR" value="9a3f4b" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="ff81ea" />
@@ -162,6 +176,13 @@
       </value>
     </option>
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff646b" />
+        <option name="EFFECT_COLOR" value="ff646b" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="5b1943" />
@@ -216,7 +237,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bf7bff" />
+        <option name="FOREGROUND" value="d75171" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
@@ -228,12 +249,43 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc4e5b" />
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ff9fab" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DELETED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7c205d" />
+        <option name="BACKGROUND" value="450505" />
+        <option name="EFFECT_COLOR" value="7c205d" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="bbb529" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
   </attributes>
 </scheme>
