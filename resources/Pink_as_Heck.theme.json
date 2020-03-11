@@ -5,8 +5,15 @@
   "editorScheme": "/Pink_as_Heck.xml",
   "ui": {
     "*": {
-      "background": "#1a1215"
-    }
+      "background": "darkBackground"
+    },
+    "Menu.foreground": "basicPink",
+    "DefaultTabs.background": "basicBackground",
+    "DefaultTabs.borderColor": "basicBackground",
+    "DefaultTabs.hoverBackground": "lighterBackground",
+    "DefaultTabs.underlineColor": "lighterBackground",
+    "DefaultTabs.inactiveUnderlineColor": "basicPink",
+    "Window.border": "1,1,1,1,lighterBackground"
   },
   "icons": {
     "ColorPalette": {
@@ -15,5 +22,11 @@
       "Actions.Grey": "#ea7599",
       "Objects.Grey": "#ea7599"
     }
+  },
+  "colors": {
+    "basicBackground": "#2b111b",
+    "darkBackground": "#150a0b",
+    "lighterBackground": "#5b1943",
+    "basicPink": "#ff5c8d"
   }
 }
