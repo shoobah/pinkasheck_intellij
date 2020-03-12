@@ -4,6 +4,7 @@
     <option name="ANNOTATIONS_COLOR" value="cc4e5b" />
     <option name="CARET_ROW_COLOR" value="150a0b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b111b" />
+    <option name="DOCUMENTATION_COLOR" value="3c1627" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="7c205d" />
     <option name="GUTTER_BACKGROUND" value="150a0b" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="7f3f6d" />
@@ -14,7 +15,6 @@
     <option name="RIGHT_MARGIN_COLOR" value="9a3f4b" />
     <option name="SELECTED_INDENT_GUIDE" value="ff5c8d" />
     <option name="SELECTED_TEARLINE_COLOR" value="7c205d" />
-    <option name="SELECTION_BACKGROUND" value="150a0b" />
     <option name="SEPARATOR_BELOW_COLOR" value="7c205d" />
     <option name="ScrollBar.hoverThumbColor" value="7c205d59" />
     <option name="ScrollBar.thumbColor" value="5b194347" />
@@ -25,7 +25,8 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="461334" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="3c1627" />
     <option name="VISUAL_INDENT_GUIDE" value="5b1943" />
-    <option name="DOCUMENTATION_COLOR" value="3c1627" />
+    <option name="SELECTION_BACKGROUND" value="ff646b" />
+    <option name="SELECTION_FOREGROUND" value="150a0b" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
