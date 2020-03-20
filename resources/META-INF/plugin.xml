@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>shoobah.pink.as.heck</id>
   <name>Pink as Heck</name>
-  <version>0.2.1</version>
+  <version>0.2.3</version>
   <vendor>Shoobah</vendor>
 
   <description><![CDATA[
